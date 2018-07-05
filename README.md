@@ -3,7 +3,7 @@
 ## Abstract 
 Neural induction in vertebrates generates a central nervous system that extends the rostral-caudal length of the body. The prevailing view is that neural cells are initially induced with anterior (forebrain) identity, with caudalising signals then converting a proportion to posterior fates (spinal cord). To test this model, we used chromatin accessibility assays to define how cells adopt region-specific neural fates. Together with genetic and biochemical perturbations this identified a developmental time window in which genome-wide chromatin remodeling events preconfigure epiblast cells for neural induction. Contrary to the established model, this revealed that cells commit to a regional identity before acquiring neural identity. This 'primary regionalization' allocates cells to anterior or posterior regions of the nervous system, explaining how cranial and spinal neurons are generated at appropriate axial positions. These findings prompt a revision to models of neural induction and support the proposed dual evolutionary origin of the vertebrate central nervous system.
 
-## Prerequisite 
+## Requirements 
 
 * Install following R packages from CRAN: 
 som, dplyr, parallel, readr, tidyr, purrr, stringr, broom, knitr,
@@ -19,7 +19,7 @@ CENTIPEDE
 
 ``` r
 devtools::install_github("luslab/atacR")
-```` `
+```` 
 
 atacR contains useful functions to analyse (bulk) ATAC-seq data with R.
 
