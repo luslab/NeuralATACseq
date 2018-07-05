@@ -91,9 +91,9 @@ CENTIPEDE
  [C](../master/analysis/04_atacseq_WT-downstreamAnalysis.R)
 
 * Figure S4
- [A](../master/analysis/xx_atacseq_hbPlus-analysis.R)
- [B](../master/analysis/xx_atacseq_hbPlus-analysis.R)
- [C](../master/analysis/xx_atacseq_hbPlus-analysis.R)
+ [A](../master/analysis/xx_atacseq_hbPlus-analysis.R),
+ [B](../master/analysis/xx_atacseq_hbPlus-analysis.R),
+ [C](../master/analysis/xx_atacseq_hbPlus-analysis.R),
  [F](../master/analysis/xx_rnaseq_analysis.R)
 
 * Figure S5
@@ -107,6 +107,12 @@ CENTIPEDE
  [F](../master/analysis/07_atacseq_Cdx2-analysis.R),
  [G](../master/analysis/xx_microarray_analysis.R),
  [H](../master/analysis/07_atacseq_Cdx2-analysis.R)
+
+## Additional information 
+
+* Pre-processing pipelines are available upon request.
+
+* Processed data (*.bam, *.bw, etc.) are available upon request.
 
 ## Reference 
 **Regionalization of the nervous system requires axial allocation prior to neural lineage commitment**
