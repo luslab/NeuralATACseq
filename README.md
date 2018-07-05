@@ -34,67 +34,67 @@ CENTIPEDE
  [G](../master/analysis/04_atacseq_WT-downstreamAnalysis.R)
 
 * Figure 2
-A
-B
-C
-D
-F
-G
-H
-I
-J
+ [A](../master/analysis/03_atacseq_SOM-WT-analysis.R),
+ [B](../master/analysis/regulatoryRegionPlots/03_ShhAnteriorExample.R),
+ [C](../master/analysis/regulatoryRegionPlots/04_Phox2bHindbrainExample.R),
+ [E](../master/analysis/regulatoryRegionPlots/05_Hoxc8SpinalCordExample.R),
+ [F](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [G](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [H](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [I](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [J](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
 
 * Figure 3
-A
-B
-C
-D
-P
+ [A](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [B](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [C](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [D](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [P](../master/analysis/xx_rnaseq_analysis.R)
 
 * Figure 4
-A
-B
-C
-D
-I
-J
-N
+ [A](../master/analysis/05_atacseq_NMP-analysis.R),
+ [B](../master/analysis/05_atacseq_NMP-analysis.R),
+ [C](../master/analysis/05_atacseq_NMP-analysis.R),
+ [D](../master/sh/plotCdx2Heatmap.sh),
+ [I](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [J](../master/analysis/07_atacseq_Cdx2-analysis.R),
+ [N](../master/analysis/05_atacseq_NMP-analysis.R)
 
 * Figure 5
-D
-H
+ [D](../master/analysis/xx_D5SCind-D5Hrep_analysis.R),
+ [H](../master/analysis/xx_D5SCind-D5Hrep_analysis.R)
 
 * Figure S1
-A
-B
-C
-D
-E
-F
+ [A](../master/analysis/01_atacseq_qc.R),
+ [B](../master/analysis/01_atacseq_qc.R),
+ [C](../master/analysis/01_atacseq_qc.R),
+ [D](../master/analysis/01_atacseq_qc.R),
+ [E](../master/analysis/01_atacseq_qc.R),
+ [F](../master/analysis/01_atacseq_qc.R)
 
 * Figure S2
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
+ [A](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [B](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [C](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [D](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [E](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [F](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [G](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [H](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [I](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [J](../master/analysis/regulatoryRegionPlots/06_ShhInvivoExample.R),
+ [K](../master/analysis/regulatoryRegionPlots/07_Olig2InvivoExample.R)
 
 * Figure S3
-A
-B
-C
+ [A](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [B](../master/analysis/04_atacseq_WT-downstreamAnalysis.R),
+ [C](../master/analysis/04_atacseq_WT-downstreamAnalysis.R)
 
 * Figure S4
-A
-B
-C
-F
+ [A](../master/analysis/xx_atacseq_hbPlus-analysis.R)
+ [B](../master/analysis/xx_atacseq_hbPlus-analysis.R)
+ [C](../master/analysis/xx_atacseq_hbPlus-analysis.R)
+ [F](../master/analysis/xx_rnaseq_analysis.R)
 
 * Figure S5
  [A](../master/analysis/07_atacseq_Cdx2-analysis.R),
