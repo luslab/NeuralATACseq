@@ -112,7 +112,7 @@ CENTIPEDE
 
 * Pre-processing pipelines are available upon request.
 
-* Processed data (*.bam, *.bw, etc.) are available upon request.
+* Processed data (*.bam, *.bw, etc.) and intermediate are available upon request.
 
 ## Reference 
 **Regionalization of the nervous system requires axial allocation prior to neural lineage commitment**
