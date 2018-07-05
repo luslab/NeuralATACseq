@@ -7,27 +7,28 @@ Neural induction in vertebrates generates a central nervous system that extends 
 
 * Install following R packages from CRAN: 
 som, dplyr, parallel, readr, tidyr, purrr, stringr, broom, knitr,
-ggplot2, RColorBrewer, ggrepel, ggpubr, ggsci, cowplot, ComplexHeatmap
+ggplot2, RColorBrewer, ggrepel, ggpubr, ggsci, cowplot
 
 * Install following R packages from bioconductor:
-GenomicRanges, BSgenome.Mmusculus.UCSC.mm10, DESeq2, GenomicFeatures, GenomicInteractions, org.Mm.eg.db, tximport, ChIPseeker, LOLA, rGREAT, motifmatchr, TFBSTools, JASPAR2016, limma, oligo, mouse4302.db, wiggleplotr
+GenomicRanges, BSgenome.Mmusculus.UCSC.mm10, DESeq2, GenomicFeatures, GenomicInteractions, org.Mm.eg.db, tximport, ChIPseeker, LOLA, rGREAT, motifmatchr, TFBSTools, JASPAR2016, limma, oligo, mouse4302.db, wiggleplotr, ComplexHeatmap
 
 * Install following R packages from R-forge: 
 CENTIPEDE
 
 * Install atacR from github:
 
+atacR contains useful functions to analyse (bulk) ATAC-seq data with R.
+
 ``` r
 devtools::install_github("luslab/atacR")
 ```` 
 
-atacR contains useful functions to analyse (bulk) ATAC-seq data with R.
 
 ## Figure to code map 
 
-* Figure 1
-** C 
-** D
+* Figure 1 
+    * C 
+    * D
 
 * Figure 2
 
