@@ -26,8 +26,12 @@ CENTIPEDE
 
 ## Figure to code map 
 
-* Figure 1 [C](../master/analysis/regulatoryRegionPlots/01_Pou5f1Example.R), [D](../master/analysis/regulatoryRegionPlots/02_0lig2Example.R),
-[E](../master/analysis/02_atacseq_DESeq2-WT-analysis.R), [F](../master/analysis/02_atacseq_DESeq2-WT-analysis.R), [G](../master/analysis/04_atacseq_WT-downstreamAnalysis.R)
+* Figure 1
+ [C](../master/analysis/regulatoryRegionPlots/01_Pou5f1Example.R),
+ [D](../master/analysis/regulatoryRegionPlots/02_0lig2Example.R),
+ [E](../master/analysis/02_atacseq_DESeq2-WT-analysis.R),
+ [F](../master/analysis/02_atacseq_DESeq2-WT-analysis.R),
+ [G](../master/analysis/04_atacseq_WT-downstreamAnalysis.R)
 
 * Figure 2
 A
@@ -92,8 +96,17 @@ B
 C
 F
 
-* Figure S5 [A](../master/analysis/07_atacseq_Cdx2-analysis.R), [A'](../master/analysis/regulatoryRegionPlots/08_Phox2bCdx2Example.R), [A''](../master/analysis/regulatoryRegionPlots/09_MafbCdx2Example.R), [B](../master/sh/plotCdx2Heatmap.sh), [C](../master/analysis/07_atacseq_Cdx2-analysis.R), [D](../master/analysis/07_atacseq_Cdx2-analysis.R), [E](../master/analysis/07_atacseq_Cdx2-analysis.R), [F](../master/analysis/07_atacseq_Cdx2-analysis.R), [G](../master/analysis/xx_microarray_analysis.R), [H](../master/analysis/07_atacseq_Cdx2-analysis.R)
-
+* Figure S5
+ [A](../master/analysis/07_atacseq_Cdx2-analysis.R),
+ [A'](../master/analysis/regulatoryRegionPlots/08_Phox2bCdx2Example.R),
+ [A''](../master/analysis/regulatoryRegionPlots/09_MafbCdx2Example.R),
+ [B](../master/sh/plotCdx2Heatmap.sh),
+ [C](../master/analysis/07_atacseq_Cdx2-analysis.R),
+ [D](../master/analysis/07_atacseq_Cdx2-analysis.R),
+ [E](../master/analysis/07_atacseq_Cdx2-analysis.R),
+ [F](../master/analysis/07_atacseq_Cdx2-analysis.R),
+ [G](../master/analysis/xx_microarray_analysis.R),
+ [H](../master/analysis/07_atacseq_Cdx2-analysis.R)
 
 ## Reference 
 **Regionalization of the nervous system requires axial allocation prior to neural lineage commitment**
