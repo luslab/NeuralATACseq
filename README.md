@@ -16,6 +16,7 @@ GenomicRanges, BSgenome.Mmusculus.UCSC.mm10, DESeq2, GenomicFeatures, GenomicInt
 CENTIPEDE
 
 * Install atacR from github:
+
     atacR contains useful functions to analyse (bulk) ATAC-seq data with R.
 
     ``` r
@@ -25,12 +26,8 @@ CENTIPEDE
 
 ## Figure to code map 
 
-* Figure 1 
-    * C 
-    * D
-    * E
-    * F
-    * G
+* Figure 1 [C](../analysis/regulatoryRegionPlots/01_Pou5f1Example.R), [D](../master/analysis/regulatoryRegionPlots/02_0lig2Example.R),
+[E](../master/analysis/02_atacseq_DESeq2-WT-analysis.R), [F](../master/analysis/02_atacseq_DESeq2-WT-analysis.R), [G](../master/analysis/04_atacseq_WT-downstreamAnalysis.R)
 
 * Figure 2
 
@@ -53,4 +50,5 @@ CENTIPEDE
 
 ## Reference 
 **Regionalization of the nervous system requires axial allocation prior to neural lineage commitment**
+
 [biorxiv preprint](https://www.biorxiv.org/content/early/2017/12/04/229203,
