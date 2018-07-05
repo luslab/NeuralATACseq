@@ -16,12 +16,11 @@ GenomicRanges, BSgenome.Mmusculus.UCSC.mm10, DESeq2, GenomicFeatures, GenomicInt
 CENTIPEDE
 
 * Install atacR from github:
+    atacR contains useful functions to analyse (bulk) ATAC-seq data with R.
 
-atacR contains useful functions to analyse (bulk) ATAC-seq data with R.
-
-``` r
-devtools::install_github("luslab/atacR")
-```` 
+    ``` r
+    devtools::install_github("luslab/atacR")
+    ``` 
 
 
 ## Figure to code map 
@@ -29,6 +28,9 @@ devtools::install_github("luslab/atacR")
 * Figure 1 
     * C 
     * D
+    * E
+    * F
+    * G
 
 * Figure 2
 
