@@ -22,7 +22,7 @@
 # Libraries
 library(GenomicRanges)
 library(BSgenome.Mmusculus.UCSC.mm10)
-library(atacR)
+library(blutwuRst)
 library(DESeq2)
 library(GenomicFeatures)
 library(GenomicInteractions)
@@ -42,7 +42,6 @@ library(mouse4302.db)
 library(som)
 
 library(dplyr)
-library(parallel)
 library(readr)
 library(tidyr)
 library(purrr)
@@ -71,7 +70,6 @@ notebook.path <- file.path(project.path, 'src/publication_scripts/metzis2018')
 
 # Additional parameters
 set.seed(1234)
-n.cores <- detectCores() - 1
 figure.suffix <- c('pdf', 'eps')
 
 ## Define color code for sample names
@@ -172,7 +170,7 @@ rownames(tpms) <- gsub('\\..*', '', rownames(tpms))
 #' # ATAC-seq quality control
 #+ chunk_qc, cache=F, echo=F, warning=F, message=F
 #/*==========================================================================#*/
-#spin_child(file.path(notebook.path, 'analysis/01_atacseq_qc.R'))
+spin_child(file.path(notebook.path, 'analysis/01_atacseq_qc.R'))
 
 #/*==========================================================================#*/
 #' # Differential analysis of WT ATAC-seq using DESeq2 and SOM clustering
